@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Oleksandr",
+    "details": {
+      "address": "Lviv",
+      "favouriteDrink": "Late",
+      "xx": {
+      }
+    }
+  },
+  {
+    "id": 1,
+    "name": "Oleksandr",
+    "details": {
+      "address": "Lviv",
+      "favouriteDrink": "Late",
+      "xx": {
+      }
+    }
+  }
+]
